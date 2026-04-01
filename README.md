@@ -26,10 +26,19 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/736bef01-c500-4225-85e4-92c4e2fdf692" />
 
 Program
+![WhatsApp Image 2026-04-01 at 6 40 12 AM](https://github.com/user-attachments/assets/849f315c-ba9c-4269-aea4-c55ad57c7354)
+![WhatsApp Image 2026-04-01 at 6 40 12 A](https://github.com/user-attachments/assets/2a85daea-fc8e-4ca9-96b3-d5660fa8137a)
 
 Output Graph
+![WhatsApp Image 2026-04-01 at 6 41 16 AM](https://github.com/user-attachments/assets/2fb87e24-a269-4a5d-bbd1-3b1af654ac05)
+
 
 Tablular Column
+![WhatsApp Image 2026-04-01 at 6 40 12 ](https://github.com/user-attachments/assets/5c2ecf7b-9c13-4c43-996b-f5b2d8ceabc1)
+
+Calculation 
+![WhatsApp Image 2026-04-01 at 6 40 13 AM](https://github.com/user-attachments/assets/931a6baa-9126-4e10-8b5e-94e19cdb5792)
+
 
 Result
 
